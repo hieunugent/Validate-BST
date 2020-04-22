@@ -8,7 +8,10 @@ class ValidateBST{
     if(tree.right != null && !ValidBstRange(tree.right, tree.value, upperBound)) return false;
     return true;
   }
+<<<<<<< HEAD
 
+=======
+>>>>>>> 128a821b7f366b54fb8d2c90e982d5639f2e7eaf
   static class BST{
     public int value;
     public BST left;
