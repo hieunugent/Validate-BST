@@ -10,3 +10,4 @@
 - check the left node if it not null, the maximum can be is their parent node, min is still the same as parent node
 - the right node max is the same as there parent node but min is there parent node.
 - time complexity : O(N)
+- space complexity: O(deep)
