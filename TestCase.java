@@ -8,9 +8,10 @@ public class TestCase{
   }
 
 
-  public TestBST extends ValidateBST.BST{
+  class TestBST extends ValidateBST.BST{
     public TestBST (int value){
       super(value);
     }
+
   }
 }

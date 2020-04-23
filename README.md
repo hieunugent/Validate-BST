@@ -11,3 +11,6 @@
 - the right node max is the same as there parent node but min is there parent node.
 - time complexity : O(N)
 - space complexity: O(deep)
+# in the Testcase:
+- write an insert tree this function will insert the value as user purpose.
+- if there is not specify, the value will follow binary search tree.
