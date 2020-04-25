@@ -12,6 +12,9 @@ public class TestCase{
     public TestBST (int value){
       super(value);
     }
+    public static void insert(int value){
+      // public void function used to test the ValidateBST function 
+    }
 
   }
 }
